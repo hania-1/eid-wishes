@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from 'inquirer';
 import clipboardy from 'clipboardy';
 // Predefined Eid greetings
